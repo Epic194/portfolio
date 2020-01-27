@@ -7,7 +7,7 @@
       background-image: url('https://www.google.com/url?sa=i&source=images&cd=&ved=2ahUKEwim4rS9wqTnAhVlknIEHSO_BscQjRx6BAgBEAQ&url=https%3A%2F%2Fwww.space.com%2Fpolluted-white-dwarfs-show-earthlike-planets.html&psig=AOvVaw25lvfso_nXJADaFOOcW3Nt&ust=1580239887242510');
     }
     h1, h2 {
-      color:rgb(0,255,255);
+      color:rgb(255,255,255);
     }
     p {
       background-color:rgb(255,255,255);
