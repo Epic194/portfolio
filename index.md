@@ -45,7 +45,8 @@
    <p text-align= "left" style="width: 45%"> learning with metaballs was really cool because it was my first time working with 3D space in computer science. It was a fun challenge and a cool new concept to explore. Creative refactoring this program really heped open my eyes to the possibilities of computer science and what it can do. </p>
   <h2> Cardioid Visulaization Creative Refactoring</h2>
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Kardioide-kreise.svg/220px-Kardioide-kreise.svg.png" align= "right" style="width: 40%">
-  <p text-align= "left" style="width: 45%"> A cardioid circle is a circle with a certain amount of coordinates around the circle. It then draw lines throughout the circle based the factor chosen. For my creative refactoring I used If staements to constantly chage the value of the colour. Once the colour reached green I reset the colour to white and also changed the factoring so that the pattern moves at a different pace. You can see it 
+  <p text-align= "left" style="width: 45%"> A cardioid circle is a circle with a certain amount of coordinates around the circle. It then draw lines throughout the circle based the factor chosen. For my creative refactoring I used If staements to constantly chage the value of the colour. Once the colour reached green I reset the colour to white and also changed the factoring so that the pattern moves at a different pace. You can see it <a href="https://editor.p5js.org/ajata1/sketches/oReg8H_p"> here. </a> </p>
+  <p text-align= "left" style="width: 45%"> This project was one of my first experiences of vectors in computer science. Seeing The Coding Train using the vectors really helped me learn as I knew what vectors were but wasn't fully confident in using them. This project was a lot of fun and very informative. </p>
 </body>
 
 
