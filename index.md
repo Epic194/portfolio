@@ -51,6 +51,10 @@
     <img src="https://www.coolmathgames.com/sites/default/files/snake.png" align= "right" style="width: 40%">
    <p text-align= "left" style="width: 45%"> This is a creative refactoring of popular video game "snake". What I did is I added in a second player that moves with WASD and have the two snakes compete for the food. The first snake to reach a chain of 10 wins. Then the two players can play again if they wish. You can play it <a href="https://editor.p5js.org/ajata1/sketches/9Bbebzip"> here. </a> </p>
   <p text-align= "left" style="width: 45%"> Like the last refactoring this also uses vectors. This also helped me feel more confident in my vector usage for the future. It also taught me about the constrain function which I didn't know existed. It all around was just great experience in JS for me </p>
+  <h2> Mathematical Rose Patterns </h2>
+   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/7_Petal_rose.svg/200px-7_Petal_rose.svg.png" align= "right" style="width: 40%">
+  <p text-align= "left" style="width: 45%"> This program makes a rose mathemaically by having the user slide in a numberator and a denominator to get a k value. For my refactoring I made the numbeator and denominator random but not the same to get a random rose pattern. I then had it continuously change until the user but the mouse on the screen to create a roulette wheel of sorts with a pretty viual. </p>
+  <p text-align= "left" style="width: 45%"> This refactoring really showed me how math and computer science go hand in hand. This program is all about mathematically making a shape something I was unaware of. I fun new experience in coding and math. </p>
 </body>
 
 
