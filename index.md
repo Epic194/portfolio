@@ -31,6 +31,10 @@
     <img src="https://cdn.pixabay.com/photo/2017/01/24/00/21/question-2004314_960_720.jpg" align= "right" style="width: 40%">
   <p text-align= "left" style="width: 45%"> Algorithms is a khan acedemy course that delves further into JS. AS you could probably guess it focuses mostly the algorithms of JS. It teaches you the multiple types of sorts such as selection or quicksort. It is a great courses to expand on the JS you learned in the intro to JS. It is a reat place to learn some more advanced techniques to help you out with some more advanced coding </p>
    <p text-align= "left" style="width: 45%"> Algorithms was a usfull course that definetly helped me with some of my creative refacrotings (see below). Knowing these advanced techniques will really help me with future projects when I'm trying to work with math in my computer science. Definetly a very usefull course to know. </p>
+  <h2> Advanced JS: Natural simulations </h2>
+   <img src="https://i.ytimg.com/vi/LMfPceMzLWg/maxresdefault.jpg" align= "right" style="width: 40%">
+  <p text-align= "left" style="width: 45%"> Advanced JS natural simulations is another course that expands an your knowledge built in JS. A very important introduction in natural simulations is the ramdom function. This is a very commonly used function and is very important if you want to code projects on your own. It's a very important aspect of JS that makes this course very useful. </p>
+  <p text-align= "left" style="width: 45%"> This course introduced some key aspects of JS to me that were essential during my creative refactorings. This course is a large part of my JS knowledge and why I feel most comfortable with this language. It really helped my projects during this course and will definetly help me in the future.
 </body>
 
 
