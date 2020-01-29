@@ -35,6 +35,10 @@
    <img src="https://i.ytimg.com/vi/LMfPceMzLWg/maxresdefault.jpg" align= "right" style="width: 40%">
   <p text-align= "left" style="width: 45%"> Advanced JS natural simulations is another course that expands an your knowledge built in JS. A very important introduction in natural simulations is the ramdom function. This is a very commonly used function and is very important if you want to code projects on your own. It's a very important aspect of JS that makes this course very useful. </p>
   <p text-align= "left" style="width: 45%"> This course introduced some key aspects of JS to me that were essential during my creative refactorings. This course is a large part of my JS knowledge and why I feel most comfortable with this language. It really helped my projects during this course and will definetly help me in the future.
+    <h2> Advanced JS: Games and visulaization </h2>
+   <img src="https://mlpforums.com/uploads/post_images/img-2606323-1-11235_1000x1000.jpg" align= "right" style="width: 40%">
+  <p text-align= "left" style="width: 45%"> Games and visualization like natural simulations is an expansion on intro to JS. In addition this course focuses on animating something like a video game. It's a little more simple than what you imagine a video game to look like but it is a good start to the basics of animation in JS. I think that this module was very important as it shows you how to properly display your code for the user to interact with.</p>
+  <p text-align= "left" style="width: 45%"> This course was very important for my learning this course as it helped me learn how to properly display my code that i learned in other modules. I found that this module went well with the other JS modules as it helped me show what I learned to code in the other ones. I'm very glad that I took the time to do this module.</p>
 </body>
 
 
