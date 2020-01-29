@@ -39,7 +39,7 @@
    <img src="https://mlpforums.com/uploads/post_images/img-2606323-1-11235_1000x1000.jpg" align= "right" style="width: 40%">
   <p text-align= "left" style="width: 45%"> Games and visualization like natural simulations is an expansion on intro to JS. In addition this course focuses on animating something like a video game. It's a little more simple than what you imagine a video game to look like but it is a good start to the basics of animation in JS. I think that this module was very important as it shows you how to properly display your code for the user to interact with.</p>
   <p text-align= "left" style="width: 45%"> This course was very important for my learning this course as it helped me learn how to properly display my code that i learned in other modules. I found that this module went well with the other JS modules as it helped me show what I learned to code in the other ones. I'm very glad that I took the time to do this module.</p>
-  <h2> Computer Crashing Metaballs<h2>
+  <h2> Computer Crashing Metaballs</h2>
     <img src="https://i.ytimg.com/vi/ccYLb7cLB1I/hqdefault.jpg" align= "right" style="width: 40%">
    <p text-align= "left" style="width: 45%"> This is a creative refactoring of a youtube video by "The Coding Train" on metaballs. A metaball is an isosurface in 3D space. The Coding Train had his metaballs bounce around the canvas but I took this one step further to have the metaballs increase speed when they hit an edge until they all start going to fast to track. You can view the program <a href="https://editor.p5js.org/ajata1/sketches/gTQ4aj4y"> here.</a> But be warned! I was testing this program and went to the washroom and it crashed my laptop </p>
 </body>
