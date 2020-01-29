@@ -47,6 +47,10 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Kardioide-kreise.svg/220px-Kardioide-kreise.svg.png" align= "right" style="width: 40%">
   <p text-align= "left" style="width: 45%"> A cardioid circle is a circle with a certain amount of coordinates around the circle. It then draw lines throughout the circle based the factor chosen. For my creative refactoring I used If staements to constantly chage the value of the colour. Once the colour reached green I reset the colour to white and also changed the factoring so that the pattern moves at a different pace. You can see it <a href="https://editor.p5js.org/ajata1/sketches/oReg8H_p"> here. </a> </p>
   <p text-align= "left" style="width: 45%"> This project was one of my first experiences of vectors in computer science. Seeing The Coding Train using the vectors really helped me learn as I knew what vectors were but wasn't fully confident in using them. This project was a lot of fun and very informative. </p>
+  <h2> Snake Versus </h2>
+    <img src="https://www.coolmathgames.com/sites/default/files/snake.png" align= "right" style="width: 40%">
+   <p text-align= "left" style="width: 45%"> This is a creative refactoring of popular video game "snake". What I did is I added in a second player that moves with WASD and have the two snakes compete for the food. The first snake to reach a chain of 10 wins. Then the two players can play again if they wish. </p>
+  <p text-align= "left" style="width: 45%"> Like the last refactoring this also uses vectors. This also helped me feel more confident in my vector usage for the future. It also taught me about the constrain function which I didn't know existed. It all around was just great experience in JS for me </p>
 </body>
 
 
