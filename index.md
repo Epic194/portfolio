@@ -43,6 +43,9 @@
     <img src="https://i.ytimg.com/vi/ccYLb7cLB1I/hqdefault.jpg" align= "right" style="width: 40%">
    <p text-align= "left" style="width: 45%"> This is a creative refactoring of a youtube video by "The Coding Train" on metaballs. A metaball is an isosurface in 3D space. The Coding Train had his metaballs bounce around the canvas but I took this one step further to have the metaballs increase speed when they hit an edge until they all start going to fast to track. You can view the program <a href="https://editor.p5js.org/ajata1/sketches/gTQ4aj4y"> here.</a> But be warned! I was testing this program and went to the washroom and it crashed my laptop. </p>
    <p text-align= "left" style="width: 45%"> learning with metaballs was really cool because it was my first time working with 3D space in computer science. It was a fun challenge and a cool new concept to explore. Creative refactoring this program really heped open my eyes to the possibilities of computer science and what it can do. </p>
+  <h2> Cardioid Visulaization Creative Refactoring</h2>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Kardioide-kreise.svg/220px-Kardioide-kreise.svg.png" align= "right" style="width: 40%">
+  <p text-align= "left" style="width: 45%"> A cardioid circle is a circle with a certain amount of coordinates around the circle. It then draw lines throughout the circle based the factor chosen. For my creative refactoring I used If staements to constantly chage the value of the colour. Once the colour reached green I reset the colour to white and also changed the factoring so that the pattern moves at a different pace. You can see it 
 </body>
 
 
