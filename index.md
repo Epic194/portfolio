@@ -18,7 +18,7 @@
     }
     .right {
       align="right";
-    width = 40%
+    width = 40%;
     }
   </style>
   </head>
