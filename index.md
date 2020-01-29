@@ -24,9 +24,11 @@
   </p>
   <p text-align= "left" style="width: 45%"> This course helped me develop almost all of my html knowledge to date. It really is a great foundation for such a different language. This entire website is built of the html foundation that khan academy helped me build. This will help me to continue to learn in the future as html is a very valuable and unique language to know especialy when coupled with js (see below). </p>
   <h2> Intro to JS: Drawing and Animation </h2>
-  <img src="https://html5hive.org/wp-content/uploads/2014/06/js_800x800.jpg.webp" align= "right" style="width: 40%">
-  <p text-align= "left" style="width: 45%"> Intro to JS is similar to intro to intro to HTML were it also focuses on building a good foundation of knowledge for you to expand in future modules. This module is more focused on the drawing and animation side of JS because it's a huge language with tons of possibilites. It teaches you all about the shapes that you can draw internally with JS and the function you can use to play around with those shapes. A great module if you are interested in learning JS or wanting to advance art with code </p>
-  <p text-align= "left" style="width: 45%"> Intro to JS really helped me learn over the course as it really helped me uderstand JS which is the lanuage I feel I used the most this course and is probably the langiuage I am most comfortable in. In the future I definetly see myself using JS in the future thanks to Khan acedemy and their JS courses.
+  <img src="https://html5hive.org/wp-content/uploads/2014/06/js_800x800.jpg.webp" align= "left" style="width: 40%">
+  <p text-align= "right" style="width: 45%"> Intro to JS is similar to intro to intro to HTML were it also focuses on building a good foundation of knowledge for you to expand in future modules. This module is more focused on the drawing and animation side of JS because it's a huge language with tons of possibilites. It teaches you all about the shapes that you can draw internally with JS and the function you can use to play around with those shapes. A great module if you are interested in learning JS or wanting to advance art with code </p>
+  <p text-align= "right" style="width: 45%"> Intro to JS really helped me learn over the course as it really helped me uderstand JS which is the lanuage I feel I used the most this course and is probably the langiuage I am most comfortable in. In the future I definetly see myself using JS in the future thanks to Khan acedemy and their JS courses.</p>
+    <img src="https://cdn.pixabay.com/photo/2017/01/24/00/21/question-2004314_960_720.jpg" align= "right" style="width: 40%">
+     <p text-align= "left" style="width: 45%"> 
 </body>
 
 
